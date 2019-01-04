@@ -1,4 +1,5 @@
 //Cameron Nelson, July 2018
+//c
 
 var wins, currentScore, activePlayer, trips;
 
