@@ -1,6 +1,4 @@
 //Cameron Nelson, July 2018
-//This is a test comment
-//test
 
 var wins, currentScore, activePlayer, trips;
 
